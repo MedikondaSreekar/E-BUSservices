@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+footer {
+    background-color:#002244;
+    padding: 10px;
+    text-align: center;
+   
+
+}
+footer h3{
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+}
+
+
